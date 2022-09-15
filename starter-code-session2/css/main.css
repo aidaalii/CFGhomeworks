@@ -1,0 +1,74 @@
+/* 2.1 Target an element and change its color */
+
+header{
+    color:wheat;
+}
+
+body {
+
+    background-image: url(https://wallpaperaccess.com/full/5525129.jpg)
+}
+
+/* 2.2 Pick a heading and change font size, make it bold and underline */
+h1{
+    font: size 300px;
+    ;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: wheat;
+    
+}
+h2{
+    color: wheat;
+    font-family: "Roboto";
+    font-size: 100px;
+}
+.enjoy{
+    text-align: center;
+}
+.number{
+    font-size: 400px;
+    text-align: center;
+}
+
+p{
+    color: wheat;
+    font-family:"Roboto"
+}
+#big{
+    font-size: 100px;
+}
+#big2{
+    font-size: 100px;
+}
+.big{
+    font-size: 100px;
+}
+.kep{
+width: 800px;
+height: 1000px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
+.quote{
+    color: wheat;
+}
+
+div{
+    background-color: #A1C298;
+    width: 300px;
+    border: 15px;color: wheat;
+    padding: 50px;
+    margin: 50px;
+}
+/* 2.3 Google font for list */
+
+
+/* 2.4 Box model */
+
+/* 2.7 Read requirements in html file */
+
+/* 2.5 Flex box */
